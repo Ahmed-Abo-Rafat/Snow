@@ -8,7 +8,6 @@ Snow is a training Project about what i learn in HTML and Css Like Flex Box and 
 Project is created with:
    - html
    - css
-   - little js
    - Animation
    - Flexbox And Grid
    - Responsive Lyouts
